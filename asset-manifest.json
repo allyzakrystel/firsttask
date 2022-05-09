@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firsttask/static/css/main.191584b6.css",
+    "main.js": "/firsttask/static/js/main.d22f7bc6.js",
+    "static/media/bg.png": "/firsttask/static/media/bg.21091e86bfe7b601b7bb.png",
+    "static/media/logo.png": "/firsttask/static/media/logo.79fe118f4e415f94feb8.png",
+    "index.html": "/firsttask/index.html",
+    "main.191584b6.css.map": "/firsttask/static/css/main.191584b6.css.map",
+    "main.d22f7bc6.js.map": "/firsttask/static/js/main.d22f7bc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.191584b6.css",
+    "static/js/main.d22f7bc6.js"
+  ]
+}
